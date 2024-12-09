@@ -2,7 +2,7 @@
 
 ![Demo App](/public/Screenshot_29.png)
 
-[Video Tutorial on Youtube](https://youtu.be/Z_AWfuJXXCI)
+
 
 -   🌟 Learn React + Tailwind + EDAMAM API
 -   🎃 Build Responsive Design
@@ -29,4 +29,3 @@ npm install
 npm run dev
 ```
 
-### Like and Subscribe:)
